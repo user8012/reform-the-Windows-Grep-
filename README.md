@@ -11,14 +11,14 @@ enlarger [ Folder select window ] of WINGERP by editing a resource data.
  An exe file have 'Resource DATA' for making a [ Window ].
  The 'Resource DATA' stores all values of object on windows like a Button size and position.
  So, size of 'the Folder selecting window' is variable by editing this values.
- The 'Resource DATA' editer is 'Resource Hacke V5.1.1'.
+ The 'Resource DATA' editer is 'Resource Hacker V5.1.1'.
 
 - Where is the Resource of 'the Folder selecting window'
- Open grep32.exe with 'Resource Hacke' -> RCData -> TSEARCHWIZARDDLG
+ Open grep32.exe with 'Resource Hacker' -> RCData -> TSEARCHWIZARDDLG
 
 - reformed Resource file
  TSEARCHWIZARDDLG.dfm
- * replace resource(RCData -> TSEARCHWIZARDDLG) with 'Resource Hacke'. 
+ * replace resource(RCData -> TSEARCHWIZARDDLG) with 'Resource Hacker'. 
 
 
 
